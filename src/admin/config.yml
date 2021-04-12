@@ -30,7 +30,7 @@ collections:
         multiple: true
         create: true
         options: ["Tags", "created", "from", "config.yml"]
- - label: "Knowledge Base"
+  - label: "Knowledge Base"
     name: "kb"
     folder: "src/kb_articles"
     create: true
